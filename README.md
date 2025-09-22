@@ -2,6 +2,7 @@ this repo is a clone of
 https://github.com/miguelgrinberg/flasky
 
 this is also the docker version, use these commands to create image and run container
+
 docker build -t flask-app .  
 docker run -p 5000:5000 -e FLASK_APP=hello.py flask-app
 
