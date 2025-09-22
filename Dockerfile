@@ -11,7 +11,7 @@ RUN pip install -r requirements.txt
 # Copy project files
 COPY . .
 
-# Expose port (adjust if your app uses a different port)
+# Expose port
 EXPOSE 5000
 
 ENV FLASK_APP=hello.py
