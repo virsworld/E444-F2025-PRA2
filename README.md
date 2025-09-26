@@ -6,6 +6,13 @@ this is also the docker version, use these commands to create image and run cont
 docker build -t flask-app .  
 docker run -p 5000:5000 -e FLASK_APP=hello.py flask-app
 
+<img width="696" height="294" alt="image" src="https://github.com/user-attachments/assets/c0d08c20-49b7-425f-9364-a0f56148bbee" />
+<img width="993" height="498" alt="image" src="https://github.com/user-attachments/assets/fd47d91c-956b-47a1-8274-523ccfc88e40" />
+<img width="1000" height="94" alt="image" src="https://github.com/user-attachments/assets/b80cac75-a0fd-4fe3-8039-0fa9a0d8326f" />
+
+
+
+
 Flasky
 ======
 
